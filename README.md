@@ -6,7 +6,7 @@ The project involved developing a credit risk default model using a given data w
 
 *Skills and Tools*
 
--Logistic Regression 
--Univariate & Bivariate Analysis 
--Outlier Treatment
--Model Performance Measures
+1. Logistic Regression 
+2. Univariate & Bivariate Analysis 
+3. Outlier Treatment 
+4. Model Performance Measures
